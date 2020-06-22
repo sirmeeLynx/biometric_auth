@@ -16,3 +16,7 @@
 ## [0.1.1] - Refactored example in readme.md: 22/06/2020.
 
 * Refactored Example: Modified sample source code in readme.md.
+
+## [0.1.2] - Refactored example in readme.md: 22/06/2020.
+
+* Refactored Example: Modified sample source code in readme.md.
