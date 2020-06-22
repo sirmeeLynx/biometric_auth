@@ -16,7 +16,7 @@ Checkout the sample below for usage of the widget.
   
 ```dart
 import 'package:flutter/material.dart';
-import 'package:BiometricIntegration/models/biometric.dart';
+import 'package:biometric_auth/biometric_auth.dart';
 
 void main() => runApp(MyApp());
 
